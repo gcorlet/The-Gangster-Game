@@ -1,5 +1,5 @@
 https://copyrightdepot.com/rep13/0029916.htm<br><br>
-Upload the files to your web hosting. Needs to be <b>PHP5</b><br>
+Upload the files to your web hosting. <b>PHP5.6</b><br>
 Import the 'Database.sql' file.<br>
 Edit the 'settings.php' file with your information.<br>
 3 Cronjobs to run; hour, day, month.<br><br>

@@ -1,7 +1,14 @@
-<img src="https://webgamescript.com/mb1.jpg">
+
 Upload the files to your web hosting. Needs to be PHP5<br>
 Import the 'Database.sql' file.<br>
 Edit the 'settings.php' file with your information.<br>
 3 Cronjobs to run; hour, day, month.<br><br>
 
+Folder also contains a pretty basicx mobile friendlyh version to work with.<br>
+Screenshots of the mobile version:<br>
+<img src="https://webgamescript.com/mp1.jpg"><br>
+<img src="https://webgamescript.com/mp2.jpg"><br>
+<img src="https://webgamescript.com/mp3.jpg"><br>
+<img src="https://webgamescript.com/mp4.jpg"><br>
+<br>
 For any further information or help, visit: https://webgamescript.com/

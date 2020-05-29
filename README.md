@@ -4,7 +4,7 @@ Import the 'Database.sql' file.<br>
 Edit the 'settings.php' file with your information.<br>
 3 Cronjobs to run; hour, day, month.<br><br>
 
-Folder also contains a pretty basicx mobile friendlyh version to work with.<br>
+Folder also contains a pretty basic <b>mobile friendly</b> version to work with.<br>
 Screenshots of the mobile version:<br>
 <img src="https://webgamescript.com/mp1.jpg"><br>
 <img src="https://webgamescript.com/mp2.jpg"><br>

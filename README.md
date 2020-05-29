@@ -1,4 +1,4 @@
-
+<img src="https://webgamescript.com/mb1.jpg">
 Upload the files to your web hosting. Needs to be PHP5<br>
 Import the 'Database.sql' file.<br>
 Edit the 'settings.php' file with your information.<br>
